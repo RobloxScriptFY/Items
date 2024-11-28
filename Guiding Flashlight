@@ -1,2 +1,2 @@
-_G.Model = Guiding
+_G.Model = Mischievous
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Matthew201322/Doors-Scriptee/refs/heads/main/Shakelight.luau", true))()
